@@ -6,7 +6,7 @@ Out of my personal learning interest I’m currently learning - **Javascript, Re
 
 ### Website 
 This is my **Portfolio Website** created in React. This contains sample websites I have created during my learning.
-**http://boring-joliot-960e47.netlify.app/**
+**https://preeti-mammen-portfolio.netlify.app/**
 <!--
 **preeti-mammen/preeti-mammen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

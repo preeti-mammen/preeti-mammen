@@ -5,8 +5,9 @@ I come from **Senior QA/Test Automation Engineer** background having an experien
 Out of my personal learning interest I’m currently learning - **Javascript, React, HTML5 and CSS3** and building websites for my personal learning. 
 
 ### Website 
-This is my **Portfolio Website** created in React. This contains sample websites I have created during my learning.
-**https://preeti-mammen-portfolio.netlify.app/**
+This is my **Portfolio Website** created in React. 
+This contains sample websites I have created during my learning.
+**https://preeti-mammen-portfolio.netlify.app/portfolios**
 <!--
 **preeti-mammen/preeti-mammen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

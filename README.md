@@ -1,12 +1,12 @@
 ### About Me👋
 
-I come from **Senior QA/Test Automation Engineer** background having an experience of 10+ years Designing and Developing Test Automation Frameworks using **Core Java, Selenium WebDriver, Cucumber BDD, Serenity BDD, Rest Assured** stack and incorporating various Design Patterns. 
+I come from **Senior QA/Test Automation Engineer** background having an experience of 12+ years Designing and Developing Test Automation Frameworks using **Core Java, Selenium WebDriver, Cucumber BDD, Serenity BDD, Rest Assured** stack and incorporating various Design Patterns. I have also an extensive experience in testing of Microservices built in Spring Boot Java along with their dependencies of Kafka, MQs and Datastores (eg. Postgres) using Dockers and in AWS Environment.
 
-Out of my personal learning interest I’m currently learning - **Javascript, React, HTML5 and CSS3** and building websites for my personal learning. 
+Out of my personal learning interest I’m currently learning Full Stack Web Development with Front End- **Javascript, React, HTML5 and CSS3** and Backend - **NodeJS Server and Mongo DB**, building websites for my personal learning. 
 
 ### Website 
 This is my **Portfolio Website** created in React. 
-This contains sample websites I have created during my learning.
+This contains sample websites I have created during my learning - React, Plain HTML, HTML with CSS and CSS Artworks.
 **https://preeti-mammen-portfolio.netlify.app/**
 <!--
 **preeti-mammen/preeti-mammen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

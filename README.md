@@ -2,7 +2,7 @@
 
 I come from **Senior QA/Test Automation Engineer** background having an experience of **12+ years in Designing and Developing Test Automation Frameworks using Core Java, Selenium WebDriver, Cucumber BDD, Serenity BDD, Rest Assured** stack and incorporating various Design Patterns. I have also an extensive experience in testing of **Microservices built in Spring Boot Java** along with their dependencies of **Kafka, MQs and Datastores (eg. Postgres) using Dockers and in AWS Environment**.
 
-Out of my personal learning interest I’m currently learning **Full Stack Web Development with Front End- **Javascript, React, HTML5 and CSS3 and Backend - **NodeJS Server and Mongo DB**, building websites for my personal learning. 
+Out of my personal learning interest I’m currently learning **Full Stack Web Development with Front End- Javascript, React, HTML5 and CSS3 and Backend - NodeJS Server and Mongo DB**, building websites for my personal learning. 
 
 ### Website 
 This is my **Portfolio Website** created in React. 
